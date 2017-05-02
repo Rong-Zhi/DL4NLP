@@ -1,2 +1,2 @@
 # DL4NLP
-Deep Learning for Natural Language processing turorial
+This is the Deep Learning for Natural Language processing turorial given by TU Darmstadt
