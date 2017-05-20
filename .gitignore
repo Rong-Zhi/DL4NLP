@@ -3,4 +3,5 @@ DATA
 .ipynb_checkpoints
 data
 negative
-.zip
+hex05_data_v2.zip
+hex05_embeddings.zip  
